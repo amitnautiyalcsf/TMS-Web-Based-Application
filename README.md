@@ -28,9 +28,13 @@ Database: Oracle 11g Express Edition
 Team responsibilities
 
 The responsibilities in the project have been divided up in order to provide maximum exposure to all team members in all aspects of the development and design of this project.
+
 Persistence  : Hibernate 5.3
+
 Business : Java
+
 Presentation Logic: JSF
+
 Admin 
 RTO
 Clerk & Traffic Cop
